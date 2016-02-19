@@ -1,0 +1,6 @@
+site_name: InjectionMap
+
+repo_url: https://github.com/InjectionMap/InjectionMap
+
+pages:
+- Introduction: index.md
