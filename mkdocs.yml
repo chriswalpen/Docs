@@ -4,3 +4,4 @@ repo_url: https://github.com/InjectionMap/InjectionMap
 
 pages:
 - Introduction: index.md
+- InjectionMap: injectionmap.md
