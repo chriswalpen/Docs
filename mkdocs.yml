@@ -5,3 +5,5 @@ repo_url: https://github.com/InjectionMap/InjectionMap
 pages:
 - Introduction: index.md
 - InjectionMap: injectionmap.md
+- InjectionMap.Configuration: injectionmap.configuration.md
+- InjectionMap.WPF: injectionmap.wpf.md
